@@ -12,8 +12,8 @@
 
 ## Quick Links
 
-- **Registration:** [Register Your Team](https://forms.gle/yThCP1swbPepPYZx7)
-- **Payment (Due immediately after registration):** [PayPal Checkout](https://www.paypal.com/ncp/payment/6WWNTPRD68K5W)
+- **Registration:** [Register Your Team](https://forms.gle/PATD8iapvpaVgrdH6)
+- **Payment (Due immediately after registration):** [PayPal Checkout](https://www.paypal.com/ncp/payment/RLZXV4SU4J8GG)
 - **Discord:** [discord.gg/PczPADKPvf](https://discord.gg/PczPADKPvf)
 - **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
 - **Twitch:** [PlayCrossFire](https://www.twitch.tv/PlayCrossFire)
