@@ -33,7 +33,7 @@ CrossfireGG operates an open-registration Tier-2 CS2 competition. Season 6 is be
 - **Tournament Type:** Online Tier-2, VRS-aligned
 - **Region:** North America
 - **Location:** Online
-- **Teams:** 56 Teams (48 Group Stage + 8 VRS direct playoff invites)
+- **Teams:** 56 Teams (48 Group Stage + 8 VRS/Top seeded direct seeded teams)
 - **Entry Fee:** $200 per team
 - **Prize Pool:** $10,000 USD
 
