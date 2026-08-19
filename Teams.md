@@ -104,8 +104,7 @@ The following teams are seeded based on **ESEA League Division and Season 57 Win
 ### Non-VRS Teams
 
 - Remaining teams are seeded by **ESEA Season 57 division tier**, best to worst: **Advanced > Main > Intermediate > Open (Group 9-10) > Open (Group 1-8)**, then by regular-season placement (best to worst) within each tier
-- **Fresh Teams** — teams with no VRS match and no Season 57 ESEA record — are seeded last, below every ranked team. Without a Roof is placed first among Fresh Teams per organizer decision; the remaining Fresh Teams keep their original random-draw order
-
+- **Fresh Teams** — teams with no VRS match and no Season 57 ESEA record — are seeded last, below every ranked team. 
 ### Tournament Lock Notice
 
 To ensure **fair play and competitive integrity** for all participants, seeding has been finalized prior to Round 1, after which no further seeding or team changes will be made.
