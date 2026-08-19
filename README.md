@@ -41,7 +41,7 @@ CrossfireGG operates an open-registration Tier-2 CS2 competition. Season 6 is be
 
 ## Overview
 
-Season 6 expands the field and shifts to a double-elimination playoff bracket with direct VRS playoff invites while preserving the VRS-aligned seeding methodology used in Season 5. The ruleset and match integrity policies mirror Season 5 with adjustments for format, dates, and financials.
+Season 6 expands the field and shifts to a double-elimination playoff bracket with top VRS/seeded teams while preserving the VRS-aligned seeding methodology used in Season 5. The ruleset and match integrity policies mirror Season 5 with adjustments for format, dates, and financials.
 
 If you want the full Rules document committed as well, see Rules.md in this repo.
 
