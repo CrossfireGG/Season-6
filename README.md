@@ -36,6 +36,8 @@ CrossfireGG operates an open-registration Tier-2 CS2 competition. Season 6 is be
 - **Teams:** 56 Teams (48 Group Stage + 8 VRS/Top seeded direct seeded teams)
 - **Entry Fee:** $200 per team
 - **Prize Pool:** $10,000 USD
+- The August 3, 2026 Valve Regional Standings (08/03/2026) publication will be used for all Group Stage seeding and direct Playoff invitations.
+
 
 ---
 
